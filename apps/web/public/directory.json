@@ -360,7 +360,7 @@
     },
     {
       "name": "21st.dev Agent Elements",
-      "description": "Open-source registry of agent UI primitives — chat shell, tool-call cards (Bash, Edit, Search, Todo, Plan), clarifying questions, input bar, streaming markdown. Built on React 19, Tailwind v4, and the Vercel AI SDK.",
+      "description": "Open-source registry of agent UI primitives \u2014 chat shell, tool-call cards (Bash, Edit, Search, Todo, Plan), clarifying questions, input bar, streaming markdown. Built on React 19, Tailwind v4, and the Vercel AI SDK.",
       "url": "https://agent-elements.21st.dev",
       "registry_url": "https://agent-elements.21st.dev/r/index.json",
       "github_url": "https://github.com/21st-dev/agent-elements",
@@ -381,6 +381,14 @@
       "registry_url": "https://ui.trophy.so/r/registry.json",
       "github_url": "https://github.com/trophyso/ui",
       "github_profile": "https://github.com/trophyso.png"
+    },
+    {
+      "name": "agentcn",
+      "description": "Production-ready agents, made simple. Ready to use, customizable AI agent recipes. Built on Eve and Flue.",
+      "url": "https://agentcn.vercel.app/",
+      "registry_url": "https://agentcn.vercel.app/r/registry.json",
+      "github_url": "https://github.com/shadcn-labs/agentcn",
+      "github_profile": "https://github.com/shadcn-labs.png"
     }
   ]
 }
