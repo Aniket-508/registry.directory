@@ -437,6 +437,14 @@
       "registry_url": "https://localmode.ai/r/registry.json",
       "github_url": "https://github.com/LocalMode-AI/LocalMode",
       "github_profile": "https://github.com/LocalMode-AI.png"
+    },
+    {
+      "name": "mcpcn",
+      "description": "An open-source registry of accessible, customizable MCP App UI components for React, built with Base UI and compatible with shadcn/ui.",
+      "url": "https://mcpcn.dev",
+      "registry_url": "https://mcpcn.dev/r/registry.json",
+      "github_url": "https://github.com/shadcn-labs/mcpcn",
+      "github_profile": "https://github.com/Aniket-508.png"
     }
   ]
 }
